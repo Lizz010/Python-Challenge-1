@@ -1,0 +1,35 @@
+Apreciado tripulante
+Bienvenido al Reto No. 1 del ciclo de Fundamentos de Programación.
+Situación problema: Compra de Producto
+La super tienda por departamentos “Tu Vecino” desea sistematizar su proceso de venta 
+de productos y para ello suministra la siguiente información sobre una compra:
+Código del producto.
+Nombre al producto.
+Cantidad comprada.
+Valor unitario (sin IVA).
+
+El gerente de la tienda desea que a través de un programa se calcule el valor del producto,
+que corresponde a la cantidad comprada por el valor unitario, el valor del IVA y el valor
+final del producto, que corresponde a la suma del valor del producto más el valor de IVA.
+
+También se informa que el valor del producto es igual a la multiplicación entre la cantidad
+comprada por el valor unitario. Adicionalmente, el valor del IVA es igual al 19% del valor
+del producto.
+
+Para este Reto, con la información suministrada se solicita resolver la situación problema,
+generando como salida el código del producto, nombre del producto, valor del producto
+sin aplicar IVA y el valor final del producto, una vez aplicada el IVA.
+
+Recomendaciones importantes:
+El orden en la entrada de la información al programa es tal y como se suministra, es decir,
+primero el código del artículo como dato entero, nombre del producto como dato String,
+luego la cantidad comprada como dato flotante y finalmente el valor unitario como dato
+flotante.
+En las instrucciones de lectura y escritura (input y print) no utilizar mensajes, debido a que
+el programa se comprobará a través de datos de prueba.
+            Ejemplos: codigo=int(input())
+
+                             print(codigo)   
+
+El método de comprobación es a través de casos de prueba, ya definidos en plataforma,
+que validarán la eficacia del programa.
