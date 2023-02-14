@@ -1,0 +1,3 @@
+Este es el primer ejemplo
+Del manejo de archivos
+En el lenguaje Python.
