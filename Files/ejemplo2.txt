@@ -1,0 +1,5 @@
+Este es el segundo ejemplo
+De escritura de archivos
+En lenguaje Python.
+Esta en una nueva linea 
+Para el archivo anterior
